@@ -1,9 +1,0 @@
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
-C:\Users\bcs2\Desktop\SC12875\RAD\Ass_6\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
